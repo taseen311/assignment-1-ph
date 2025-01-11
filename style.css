@@ -1,0 +1,83 @@
+h{
+    font-family: "Fira Sans", serif;
+    font-size: 32px;
+    font-weight: 500;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+}
+
+button{
+    font-size: 18px;
+    font-family: "Fira Sans", serif;
+    height: 40px;
+    width: 120px;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 200px;
+}
+nav{
+    height: 100px;
+    width: 1600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 62px;
+    /* padding-right: 80px;  */
+}
+section{
+    height: 560px;
+    width: 1400px;
+    background-color: #ABECB9;
+    margin-left: 65px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+ .h1sec{
+    font-size: 56px;
+    font-family: "Fira Sans", serif;
+ }
+ .secp{
+    font-size: 25px;
+    font-family: "Fira Sans", serif;
+ }
+ .secbutton{
+    color:#FFFFFF;
+    background-color: darkgreen;
+    font-size: 18px;
+    height: 60px;
+    width:270px;
+ }
+
+ .h1main{
+    font-size: 40px;
+    font-weight: 400;
+    padding: 40px 0px 0px 55px;
+ }
+ .pmain{
+    font-size: 16px;
+    padding-left: 55px;
+ }
+
+.first{
+    height: 325px;
+    width: 410px;
+    background-color: #99b2dc;
+    padding: 40px;
+    border-radius: 10px;  
+}
+.q{
+    font-size: 20px;
+    font-weight: 500;
+}
+.w{
+    font-size: 16px;
+}
+.e{
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: rgb(107, 107, 231);
+}
+
