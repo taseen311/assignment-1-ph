@@ -1,9 +1,11 @@
-nav{
-    height: 100px; 
-    width: 1800px;
-    
+button:hover{
+    background-color: #09A15C;
 }
-
+body button:hover{
+    background-color: red;
+    box-shadow: 2px 2px blue;
+    color: aqua;
+}
 
 .flex1{
      display: flex;
